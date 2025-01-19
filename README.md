@@ -1,4 +1,4 @@
-# lab_2 and lab3
+# jokes_app_lab3
 
 A new Flutter project.
 
